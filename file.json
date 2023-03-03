@@ -1,0 +1,1165 @@
+{
+  "Volumes": [
+    {
+      "Attachments": [
+        {
+          "AttachTime": "2023-02-13T20:10:44+00:00",
+          "Device": "/dev/xvdu",
+          "InstanceId": "i-1234567890",
+          "State": "attached",
+          "VolumeId": "vol-1234567890",
+          "DeleteOnTermination": false
+        }
+      ],
+      "AvailabilityZone": "us-east-1b",
+      "CreateTime": "2020-06-18T06:00:43.973000+00:00",
+      "Encrypted": false,
+      "Size": 20,
+      "SnapshotId": "",
+      "State": "in-use",
+      "VolumeId": "vol-1234567890",
+      "Iops": 3000,
+      "Tags": [
+        {
+          "Key": "Financial Owner Name",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "ExcludePatchManagement",
+          "Value": "true"
+        },
+        {
+          "Key": "Technical Team Owner",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "tf_repo_owner",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "k8s.io/etcd/events",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Migration",
+          "Value": "no"
+        },
+        {
+          "Key": "Service",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Name",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Dummy",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Technical Owner Email",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "tf_repo_name",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Financial Owner Email",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "KubernetesCluster",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "tf_repo_server",
+          "Value": "github.com"
+        },
+        {
+          "Key": "tf",
+          "Value": "true"
+        },
+        {
+          "Key": "Business Unit",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Environment",
+          "Value": "development"
+        },
+        {
+          "Key": "Technical Owner Name",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "tf_org",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Business Unit Division",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Dummy",
+          "Value": "1"
+        },
+        {
+          "Key": "Application",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Platform",
+          "Value": "Dummy"
+        }
+      ],
+      "VolumeType": "gp3",
+      "MultiAttachEnabled": false,
+      "Throughput": 125
+    },{
+      "Attachments": [
+        {
+          "AttachTime": "2023-02-13T20:10:44+00:00",
+          "Device": "/dev/xvdu",
+          "InstanceId": "i-1234567890",
+          "State": "attached",
+          "VolumeId": "vol-1234567890",
+          "DeleteOnTermination": false
+        }
+      ],
+      "AvailabilityZone": "us-east-1b",
+      "CreateTime": "2020-06-18T06:00:43.973000+00:00",
+      "Encrypted": false,
+      "Size": 20,
+      "SnapshotId": "",
+      "State": "in-use",
+      "VolumeId": "vol-1234567890",
+      "Iops": 3000,
+      "Tags": [
+        {
+          "Key": "Financial Owner Name",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "ExcludePatchManagement",
+          "Value": "true"
+        },
+        {
+          "Key": "Technical Team Owner",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "tf_repo_owner",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "k8s.io/etcd/events",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Migration",
+          "Value": "no"
+        },
+        {
+          "Key": "Service",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Name",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Dummy",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Technical Owner Email",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "tf_repo_name",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Financial Owner Email",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "KubernetesCluster",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "tf_repo_server",
+          "Value": "github.com"
+        },
+        {
+          "Key": "tf",
+          "Value": "true"
+        },
+        {
+          "Key": "Business Unit",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Environment",
+          "Value": "development"
+        },
+        {
+          "Key": "Technical Owner Name",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "tf_org",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Business Unit Division",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Dummy",
+          "Value": "1"
+        },
+        {
+          "Key": "Application",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Platform",
+          "Value": "Dummy"
+        }
+      ],
+      "VolumeType": "gp3",
+      "MultiAttachEnabled": false,
+      "Throughput": 125
+    },{
+      "Attachments": [
+        {
+          "AttachTime": "2023-02-13T20:10:44+00:00",
+          "Device": "/dev/xvdu",
+          "InstanceId": "i-1234567890",
+          "State": "attached",
+          "VolumeId": "vol-1234567890",
+          "DeleteOnTermination": false
+        }
+      ],
+      "AvailabilityZone": "us-east-1b",
+      "CreateTime": "2020-06-18T06:00:43.973000+00:00",
+      "Encrypted": false,
+      "Size": 20,
+      "SnapshotId": "",
+      "State": "in-use",
+      "VolumeId": "vol-1234567890",
+      "Iops": 3000,
+      "Tags": [
+        {
+          "Key": "Financial Owner Name",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "ExcludePatchManagement",
+          "Value": "true"
+        },
+        {
+          "Key": "Technical Team Owner",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "tf_repo_owner",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "k8s.io/etcd/events",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Migration",
+          "Value": "no"
+        },
+        {
+          "Key": "Service",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Name",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Dummy",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Technical Owner Email",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "tf_repo_name",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Financial Owner Email",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "KubernetesCluster",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "tf_repo_server",
+          "Value": "github.com"
+        },
+        {
+          "Key": "tf",
+          "Value": "true"
+        },
+        {
+          "Key": "Business Unit",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Environment",
+          "Value": "development"
+        },
+        {
+          "Key": "Technical Owner Name",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "tf_org",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Business Unit Division",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Dummy",
+          "Value": "1"
+        },
+        {
+          "Key": "Application",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Platform",
+          "Value": "Dummy"
+        }
+      ],
+      "VolumeType": "gp3",
+      "MultiAttachEnabled": false,
+      "Throughput": 125
+    },{
+      "Attachments": [
+        {
+          "AttachTime": "2023-02-13T20:10:44+00:00",
+          "Device": "/dev/xvdu",
+          "InstanceId": "i-1234567890",
+          "State": "attached",
+          "VolumeId": "vol-1234567890",
+          "DeleteOnTermination": false
+        }
+      ],
+      "AvailabilityZone": "us-east-1b",
+      "CreateTime": "2020-06-18T06:00:43.973000+00:00",
+      "Encrypted": false,
+      "Size": 20,
+      "SnapshotId": "",
+      "State": "in-use",
+      "VolumeId": "vol-1234567890",
+      "Iops": 3000,
+      "Tags": [
+        {
+          "Key": "Financial Owner Name",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "ExcludePatchManagement",
+          "Value": "true"
+        },
+        {
+          "Key": "Technical Team Owner",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "tf_repo_owner",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "k8s.io/etcd/events",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Migration",
+          "Value": "no"
+        },
+        {
+          "Key": "Service",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Name",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Dummy",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Technical Owner Email",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "tf_repo_name",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Financial Owner Email",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "KubernetesCluster",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "tf_repo_server",
+          "Value": "github.com"
+        },
+        {
+          "Key": "tf",
+          "Value": "true"
+        },
+        {
+          "Key": "Business Unit",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Environment",
+          "Value": "development"
+        },
+        {
+          "Key": "Technical Owner Name",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "tf_org",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Business Unit Division",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Dummy",
+          "Value": "1"
+        },
+        {
+          "Key": "Application",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Platform",
+          "Value": "Dummy"
+        }
+      ],
+      "VolumeType": "gp3",
+      "MultiAttachEnabled": false,
+      "Throughput": 125
+    },{
+      "Attachments": [
+        {
+          "AttachTime": "2023-02-13T20:10:44+00:00",
+          "Device": "/dev/xvdu",
+          "InstanceId": "i-1234567890",
+          "State": "attached",
+          "VolumeId": "vol-1234567890",
+          "DeleteOnTermination": false
+        }
+      ],
+      "AvailabilityZone": "us-east-1b",
+      "CreateTime": "2020-06-18T06:00:43.973000+00:00",
+      "Encrypted": false,
+      "Size": 20,
+      "SnapshotId": "",
+      "State": "in-use",
+      "VolumeId": "vol-1234567890",
+      "Iops": 3000,
+      "Tags": [
+        {
+          "Key": "Financial Owner Name",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "ExcludePatchManagement",
+          "Value": "true"
+        },
+        {
+          "Key": "Technical Team Owner",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "tf_repo_owner",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "k8s.io/etcd/events",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Migration",
+          "Value": "no"
+        },
+        {
+          "Key": "Service",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Name",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Dummy",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Technical Owner Email",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "tf_repo_name",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Financial Owner Email",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "KubernetesCluster",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "tf_repo_server",
+          "Value": "github.com"
+        },
+        {
+          "Key": "tf",
+          "Value": "true"
+        },
+        {
+          "Key": "Business Unit",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Environment",
+          "Value": "development"
+        },
+        {
+          "Key": "Technical Owner Name",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "tf_org",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Business Unit Division",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Dummy",
+          "Value": "1"
+        },
+        {
+          "Key": "Application",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Platform",
+          "Value": "Dummy"
+        }
+      ],
+      "VolumeType": "gp3",
+      "MultiAttachEnabled": false,
+      "Throughput": 125
+    },{
+      "Attachments": [
+        {
+          "AttachTime": "2023-02-13T20:10:44+00:00",
+          "Device": "/dev/xvdu",
+          "InstanceId": "i-1234567890",
+          "State": "attached",
+          "VolumeId": "vol-1234567890",
+          "DeleteOnTermination": false
+        }
+      ],
+      "AvailabilityZone": "us-east-1b",
+      "CreateTime": "2020-06-18T06:00:43.973000+00:00",
+      "Encrypted": false,
+      "Size": 20,
+      "SnapshotId": "",
+      "State": "in-use",
+      "VolumeId": "vol-1234567890",
+      "Iops": 3000,
+      "Tags": [
+        {
+          "Key": "Financial Owner Name",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "ExcludePatchManagement",
+          "Value": "true"
+        },
+        {
+          "Key": "Technical Team Owner",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "tf_repo_owner",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "k8s.io/etcd/events",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Migration",
+          "Value": "no"
+        },
+        {
+          "Key": "Service",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Name",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Dummy",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Technical Owner Email",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "tf_repo_name",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Financial Owner Email",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "KubernetesCluster",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "tf_repo_server",
+          "Value": "github.com"
+        },
+        {
+          "Key": "tf",
+          "Value": "true"
+        },
+        {
+          "Key": "Business Unit",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Environment",
+          "Value": "development"
+        },
+        {
+          "Key": "Technical Owner Name",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "tf_org",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Business Unit Division",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Dummy",
+          "Value": "1"
+        },
+        {
+          "Key": "Application",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Platform",
+          "Value": "Dummy"
+        }
+      ],
+      "VolumeType": "gp3",
+      "MultiAttachEnabled": false,
+      "Throughput": 125
+    },{
+      "Attachments": [
+        {
+          "AttachTime": "2023-02-13T20:10:44+00:00",
+          "Device": "/dev/xvdu",
+          "InstanceId": "i-1234567890",
+          "State": "attached",
+          "VolumeId": "vol-1234567890",
+          "DeleteOnTermination": false
+        }
+      ],
+      "AvailabilityZone": "us-east-1b",
+      "CreateTime": "2020-06-18T06:00:43.973000+00:00",
+      "Encrypted": false,
+      "Size": 20,
+      "SnapshotId": "",
+      "State": "in-use",
+      "VolumeId": "vol-1234567890",
+      "Iops": 3000,
+      "Tags": [
+        {
+          "Key": "Financial Owner Name",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "ExcludePatchManagement",
+          "Value": "true"
+        },
+        {
+          "Key": "Technical Team Owner",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "tf_repo_owner",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "k8s.io/etcd/events",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Migration",
+          "Value": "no"
+        },
+        {
+          "Key": "Service",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Name",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Dummy",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Technical Owner Email",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "tf_repo_name",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Financial Owner Email",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "KubernetesCluster",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "tf_repo_server",
+          "Value": "github.com"
+        },
+        {
+          "Key": "tf",
+          "Value": "true"
+        },
+        {
+          "Key": "Business Unit",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Environment",
+          "Value": "development"
+        },
+        {
+          "Key": "Technical Owner Name",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "tf_org",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Business Unit Division",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Dummy",
+          "Value": "1"
+        },
+        {
+          "Key": "Application",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Platform",
+          "Value": "Dummy"
+        }
+      ],
+      "VolumeType": "gp3",
+      "MultiAttachEnabled": false,
+      "Throughput": 125
+    },{
+      "Attachments": [
+        {
+          "AttachTime": "2023-02-13T20:10:44+00:00",
+          "Device": "/dev/xvdu",
+          "InstanceId": "i-1234567890",
+          "State": "attached",
+          "VolumeId": "vol-1234567890",
+          "DeleteOnTermination": false
+        }
+      ],
+      "AvailabilityZone": "us-east-1b",
+      "CreateTime": "2020-06-18T06:00:43.973000+00:00",
+      "Encrypted": false,
+      "Size": 20,
+      "SnapshotId": "",
+      "State": "in-use",
+      "VolumeId": "vol-1234567890",
+      "Iops": 3000,
+      "Tags": [
+        {
+          "Key": "Financial Owner Name",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "ExcludePatchManagement",
+          "Value": "true"
+        },
+        {
+          "Key": "Technical Team Owner",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "tf_repo_owner",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "k8s.io/etcd/events",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Migration",
+          "Value": "no"
+        },
+        {
+          "Key": "Service",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Name",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Dummy",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Technical Owner Email",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "tf_repo_name",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Financial Owner Email",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "KubernetesCluster",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "tf_repo_server",
+          "Value": "github.com"
+        },
+        {
+          "Key": "tf",
+          "Value": "true"
+        },
+        {
+          "Key": "Business Unit",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Environment",
+          "Value": "development"
+        },
+        {
+          "Key": "Technical Owner Name",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "tf_org",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Business Unit Division",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Dummy",
+          "Value": "1"
+        },
+        {
+          "Key": "Application",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Platform",
+          "Value": "Dummy"
+        }
+      ],
+      "VolumeType": "gp3",
+      "MultiAttachEnabled": false,
+      "Throughput": 125
+    },{
+      "Attachments": [
+        {
+          "AttachTime": "2023-02-13T20:10:44+00:00",
+          "Device": "/dev/xvdu",
+          "InstanceId": "i-1234567890",
+          "State": "attached",
+          "VolumeId": "vol-1234567890",
+          "DeleteOnTermination": false
+        }
+      ],
+      "AvailabilityZone": "us-east-1b",
+      "CreateTime": "2020-06-18T06:00:43.973000+00:00",
+      "Encrypted": false,
+      "Size": 20,
+      "SnapshotId": "",
+      "State": "in-use",
+      "VolumeId": "vol-1234567890",
+      "Iops": 3000,
+      "Tags": [
+        {
+          "Key": "Financial Owner Name",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "ExcludePatchManagement",
+          "Value": "true"
+        },
+        {
+          "Key": "Technical Team Owner",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "tf_repo_owner",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "k8s.io/etcd/events",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Migration",
+          "Value": "no"
+        },
+        {
+          "Key": "Service",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Name",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Dummy",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Technical Owner Email",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "tf_repo_name",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Financial Owner Email",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "KubernetesCluster",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "tf_repo_server",
+          "Value": "github.com"
+        },
+        {
+          "Key": "tf",
+          "Value": "true"
+        },
+        {
+          "Key": "Business Unit",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Environment",
+          "Value": "development"
+        },
+        {
+          "Key": "Technical Owner Name",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "tf_org",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Business Unit Division",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Dummy",
+          "Value": "1"
+        },
+        {
+          "Key": "Application",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Platform",
+          "Value": "Dummy"
+        }
+      ],
+      "VolumeType": "gp3",
+      "MultiAttachEnabled": false,
+      "Throughput": 125
+    },{
+      "Attachments": [
+        {
+          "AttachTime": "2023-02-13T20:10:44+00:00",
+          "Device": "/dev/xvdu",
+          "InstanceId": "i-1234567890",
+          "State": "attached",
+          "VolumeId": "vol-1234567890",
+          "DeleteOnTermination": false
+        }
+      ],
+      "AvailabilityZone": "us-east-1b",
+      "CreateTime": "2020-06-18T06:00:43.973000+00:00",
+      "Encrypted": false,
+      "Size": 20,
+      "SnapshotId": "",
+      "State": "in-use",
+      "VolumeId": "vol-1234567890",
+      "Iops": 3000,
+      "Tags": [
+        {
+          "Key": "Financial Owner Name",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "ExcludePatchManagement",
+          "Value": "true"
+        },
+        {
+          "Key": "Technical Team Owner",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "tf_repo_owner",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "k8s.io/etcd/events",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Migration",
+          "Value": "no"
+        },
+        {
+          "Key": "Service",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Name",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Dummy",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Technical Owner Email",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "tf_repo_name",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Financial Owner Email",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "KubernetesCluster",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "tf_repo_server",
+          "Value": "github.com"
+        },
+        {
+          "Key": "tf",
+          "Value": "true"
+        },
+        {
+          "Key": "Business Unit",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Environment",
+          "Value": "development"
+        },
+        {
+          "Key": "Technical Owner Name",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "tf_org",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Business Unit Division",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Dummy",
+          "Value": "1"
+        },
+        {
+          "Key": "Application",
+          "Value": "Dummy"
+        },
+        {
+          "Key": "Platform",
+          "Value": "Dummy"
+        }
+      ],
+      "VolumeType": "gp3",
+      "MultiAttachEnabled": false,
+      "Throughput": 125
+    }
+  ]
+}
